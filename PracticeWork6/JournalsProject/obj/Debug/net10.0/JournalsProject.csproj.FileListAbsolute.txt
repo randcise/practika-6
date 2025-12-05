@@ -1,0 +1,14 @@
+C:\Users\Nitro\PracticeWork6\JournalsProject\bin\Debug\net10.0\JournalsProject.exe
+C:\Users\Nitro\PracticeWork6\JournalsProject\bin\Debug\net10.0\JournalsProject.deps.json
+C:\Users\Nitro\PracticeWork6\JournalsProject\bin\Debug\net10.0\JournalsProject.runtimeconfig.json
+C:\Users\Nitro\PracticeWork6\JournalsProject\bin\Debug\net10.0\JournalsProject.dll
+C:\Users\Nitro\PracticeWork6\JournalsProject\bin\Debug\net10.0\JournalsProject.pdb
+C:\Users\Nitro\PracticeWork6\JournalsProject\obj\Debug\net10.0\JournalsProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nitro\PracticeWork6\JournalsProject\obj\Debug\net10.0\JournalsProject.AssemblyInfoInputs.cache
+C:\Users\Nitro\PracticeWork6\JournalsProject\obj\Debug\net10.0\JournalsProject.AssemblyInfo.cs
+C:\Users\Nitro\PracticeWork6\JournalsProject\obj\Debug\net10.0\JournalsProject.csproj.CoreCompileInputs.cache
+C:\Users\Nitro\PracticeWork6\JournalsProject\obj\Debug\net10.0\JournalsProject.dll
+C:\Users\Nitro\PracticeWork6\JournalsProject\obj\Debug\net10.0\refint\JournalsProject.dll
+C:\Users\Nitro\PracticeWork6\JournalsProject\obj\Debug\net10.0\JournalsProject.pdb
+C:\Users\Nitro\PracticeWork6\JournalsProject\obj\Debug\net10.0\JournalsProject.genruntimeconfig.cache
+C:\Users\Nitro\PracticeWork6\JournalsProject\obj\Debug\net10.0\ref\JournalsProject.dll
